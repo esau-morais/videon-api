@@ -1,6 +1,6 @@
 # videon api
 
-![videon](https://videon.vercel.app/images/Logo400.svg)
+![videon](https://videon.vercel.app/images/Logo192.svg)
 
 ## Goals
 
